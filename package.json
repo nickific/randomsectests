@@ -1,0 +1,30 @@
+{
+  "name": "@nickific/randomsectests",
+  "version": "0.0.1",
+  "description": "Testbed",
+  "main": "randomsectests.js",
+  "scripts": {
+    "test": "tap"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nickific/randomsectests.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "keywords": [
+    "testbed"
+  ],
+  "author": "nickific",
+  "license": "UNLICENSED",
+  "private": false,
+  "dependencies": {
+    "@types/jquery": "^1.12.4",
+    "stripe": "^8.142.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^1.12.4",
+    "stripe": "^8.142.0"
+  }
+}
