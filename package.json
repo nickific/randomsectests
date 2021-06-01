@@ -21,10 +21,14 @@
   "private": false,
   "dependencies": {
     "@types/jquery": "^1.12.4",
-    "stripe": "^8.142.0"
+    "smooth-scroll": "^12.1.5",
+    "gumshoe": "^3.5.1",
+    "stickybits": "^3.6.7"
   },
   "devDependencies": {
     "@types/jquery": "^1.12.4",
-    "stripe": "^8.142.0"
+    "smooth-scroll": "^12.1.5",
+    "gumshoe": "^3.5.1",
+    "stickybits": "^3.6.7"
   }
 }
